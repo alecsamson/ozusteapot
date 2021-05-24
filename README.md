@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ozusteapot
 - 👀 I’m interested in Web Development, Sci Fi media, LoFi music
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Front-end projects.
+- 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me samsonioanalexandru@gmail.com
 
 <!---
