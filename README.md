@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozusteapot
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Web Development, Sci Fi media, LoFi music
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Front-end projects
