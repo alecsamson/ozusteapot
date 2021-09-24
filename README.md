@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Alex
+- 💻 I'm currently a Junior Web Developer intern at Thinslices
 - 👀 I’m interested in Web Development, Sci Fi media, LoFi music
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Front-end projects
